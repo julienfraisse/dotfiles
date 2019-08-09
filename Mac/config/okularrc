@@ -1,0 +1,36 @@
+[Desktop Entry]
+FullScreen=false
+shouldShowMenuBarComingFromFullScreen=true
+shouldShowToolBarComingFromFullScreen=true
+
+[MainWindow]
+Height 1620=1514
+Height 1800=1694
+Height 2160=2047
+Height 2304=1694
+State=AAAA/wAAAAD9AAAAAAAAC0AAAAY/AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 2880=2880
+Width 4096=2880
+
+[Recent Files]
+File1[$e]=$HOME/google-drive/SCAN/feuilles de paie mimi.pdf
+File10[$e]=/usr/share/doc/manjaro/i3_help.pdf
+File2[$e]=$HOME/google-drive/SCAN/IMG_20181227_0001.pdf
+File3[$e]=$HOME/google-drive/SCAN/Julien Fraisse - Papier de divorce.pdf
+File4[$e]=$HOME/google-drive/Impots 2018 - Charest-Fraisse/JF-Avis de cotisation QC 2017 (2018-04-13).pdf
+File5[$e]=$HOME/google-drive/Scan identite/specimen_tangerine.pdf
+File6[$e]=$HOME/google-drive/Scrum Certification/Scrum-Guide-US.pdf
+File7[$e]=$HOME/google-drive/Scrum Certification/ETS PSM1 - Certification documents/PSM Reference Guide.pdf
+File8[$e]=$HOME/google-drive/CV/Product Owner - Julien Fraisse.pdf
+File9[$e]=$HOME/Downloads/Statistiques-Opportunites-de-carriere-CFA-Montreal---T1-2017.pdf
+Name1[$e]=feuilles de paie mimi.pdf
+Name10[$e]=i3_help.pdf
+Name2[$e]=IMG_20181227_0001.pdf
+Name3[$e]=Julien Fraisse - Papier de divorce.pdf
+Name4[$e]=JF-Avis de cotisation QC 2017 (2018-04-13).pdf
+Name5[$e]=specimen_tangerine.pdf
+Name6[$e]=Scrum-Guide-US.pdf
+Name7[$e]=PSM Reference Guide.pdf
+Name8[$e]=Product Owner - Julien Fraisse.pdf
+Name9[$e]=Statistiques-Opportunites-de-carriere-CFA-Montreal---T1-2017.pdf

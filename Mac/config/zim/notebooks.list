@@ -1,0 +1,9 @@
+[NotebookList]
+Default=
+1=~/Documents
+
+[Notebook 1]
+uri=~/Documents
+name=Notebook
+interwiki=None
+icon=None
