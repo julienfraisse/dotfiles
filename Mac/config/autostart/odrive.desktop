@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=odrive
+Comment=odrivestartup script
+Exec=/opt/OpenDrive/odrive
+StartupNotify=false
+Terminal=false

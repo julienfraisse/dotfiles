@@ -1,0 +1,13 @@
+[Added Associations]
+application/pdf=org.kde.okular.desktop;
+image/jpeg=viewnior.desktop;
+image/png=viewnior.desktop;
+application/msword=org.kde.okular.desktop;
+
+[Default Applications]
+application/pdf=org.kde.okular.desktop
+x-scheme-handler/mailto=google-chrome.desktop
+image/jpeg=viewnior.desktop
+image/png=viewnior.desktop
+x-scheme-handler/webcal=google-chrome.desktop
+x-scheme-handler/postman=Postman.desktop
